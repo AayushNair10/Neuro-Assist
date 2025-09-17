@@ -14,7 +14,7 @@ Neuro Assist
 - ML libraries-> Sklearn,Intel's Optimization for XGBoost,Intel's Extension for Scikit-learn,Intel's Distribution of Modin
 - Deployment -> IDC(Intel Developer Cloud)
 
-⚠️ This project was developed as part of a team during IDEOZEN Hackathon winner, YANTRA 2024. This repository contains my personal copy and may not reflect contributions from other teammates.
+⚠️ This project was developed as part of a team during IDEOZEN Hackathon, YANTRA 2024. This repository contains my personal copy and may not reflect contributions from other teammates.
 
 
 ## Features
